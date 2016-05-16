@@ -1,1 +1,1 @@
-# some content?
+echo 'hello world!'
